@@ -6,27 +6,29 @@ Full-Stack Developer | MCA Graduate (SNU, Kolkata, 2025)
 🚀 Passionate about building scalable web applications using Django and React.js.  
 💡 Constantly learning new technologies and contributing to open-source projects.  
 
+Let’s build something amazing together! 😊
+
 ---
 
-🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-Frontend Development  
-- React.js (Hooks, Context API, Redux)  
-- HTML5, CSS3, JavaScript (ES6+)  
-- Tailwind CSS / Bootstrap / Material-UI(Responsive Design)
-- Socket.io (Realtime apps)
+### 🌐 Frontend Development
+- ⚛️ **React.js** (Hooks, Context API, Redux)
+- 🏗️ **HTML5**, **CSS3**, **JavaScript (ES6+)**
+- 🎨 **Tailwind CSS** / **Bootstrap** / **Material-UI** (Responsive Design)
+- 🔌 **Socket.io** (Realtime apps)
 
-Backend Development  
-- Django, Django REST Framework (DRF)  
-- Python (Flask for microservices, Machine Learning)  
+### ⚙️ Backend Development
+- 🐍 **Django**, **Django REST Framework (DRF)**
+- 🐍 **Python** (Flask for microservices, Machine Learning)
 
-Databases  
-- PostgreSQL, MySQL , SQLite
-- MongoDB (Basic knowledge)  
+### 🗃️ Databases
+- 🐘 **PostgreSQL**, **MySQL**, **SQLite**
+- 🍃 **MongoDB** (Basic knowledge)
 
-DevOps & Tools 
-- Git & GitHub (Version Control)  
-- VS Code, PyCharm (IDEs)  
+### 🛠️ DevOps & Tools
+- 🔄 **Git & GitHub** (Version Control)
+- 💻 **VS Code**, **PyCharm** (IDEs) 
 
 ---
 
@@ -41,35 +43,35 @@ DevOps & Tools
 ## 💼 Projects  
 
 ### 🧠 Mental Health Prediction System (ML + Django)  
-  ✔ **🔧 Tech:** Python (Scikit-learn), Django, Pandas  
-  ✔ **📊 Predicts** mental health risks using user-input data.  
-  ✔ **📈 Includes** an admin dashboard for analytics.  
+**🔧 Tech:** Python (Scikit-learn), Django, Pandas  
+**📊 Predicts** mental health risks using user-input data.  
+**📈 Includes** an admin dashboard for analytics.  
 
 ### 🏷️ Lab Asset Management System (React + Django)  
-  ✔ **🔧 Tech:** React.js, Django REST Framework, CSS  
-  ✔ **📋 Tracks** lab equipment, maintenance, and user assignments.  
-  ✔ **🔍 Barcode/QR scanning** integration for quick access.  
+**🔧 Tech:** React.js, Django REST Framework, CSS  
+**📋 Tracks** lab equipment, maintenance, and user assignments.  
+**🔍 Barcode/QR scanning** integration for quick access.  
 
 ### 🎓 Student Management System (Django)  
-✔ **🔧 Tech:** Django, PostgreSQL, Bootstrap  
-✔ **📚 Manages** student records, attendance, and grades.  
-✔ **👨‍💼 Role-based access** for admins, teachers & students.  
+**🔧 Tech:** Django, PostgreSQL, Bootstrap  
+**📚 Manages** student records, attendance, and grades.  
+**👨‍💼 Role-based access** for admins, teachers & students.  
 
 ### 💬 Realtime Chat App (React + Socket.io)  
-✔ **🔧 Tech:** React.js, Material-UI, Socket.io  
-✔ **💌 Live messaging** with typing indicators & read receipts.  
-✔ **📱 Responsive design** for all devices.  
+**🔧 Tech:** React.js, Material-UI, Socket.io  
+**💌 Live messaging** with typing indicators & read receipts.  
+**📱 Responsive design** for all devices.  
 
 
-📂 More Projects: [GitHub Repositories](https://github.com/Debprasad77?tab=repositories)*  
+📂 More Projects: [GitHub Repositories](https://github.com/Debprasad77?tab=repositories)
 
 ---
 
  📫 Connect With Me  
 
 📧 Email: [debprasadmanna2002@gmail.com](mailto:debprasadmanna2002@gmail.com)  
-🔗 LinkedIn: [Debprasad Manna](https://www.linkedin.com/in/Debprasad77/) *(Replace with actual link)*  
-🐦 Twitter: [@Debprasad77](https://twitter.com/Debprasad77) *(If available)*  
+🔗 LinkedIn: [Debprasad Manna](https://www.linkedin.com/in/Debprasad77/) 
+🐦 Twitter: [@Debprasad77](https://twitter.com/Debprasad77) 
 
 ---
 
@@ -94,11 +96,11 @@ Build a Next.js + Django SaaS project.
 
 Explore AI model deployment (TensorFlow.js).
 
-Let’s build something amazing together! 😊
+
 
 ---
 
- 📊 GitHub Stats *(Optional – You can add later)*  
+ 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debprasad77&show_icons=true&theme=radical)  
 
 ---
