@@ -41,24 +41,24 @@ DevOps & Tools
  💼 Projects  
 
 1. 🧠 Mental Health Prediction System (ML + Django)
-✔ 🔧 Tech: Python (Scikit-learn), Django, Pandas
-✔ 📊 Predicts mental health risks using user-input data.
-✔ 📈 Includes an admin dashboard for analytics.
+      ✔ 🔧 Tech: Python (Scikit-learn), Django, Pandas
+      ✔ 📊 Predicts mental health risks using user-input data.
+      ✔ 📈 Includes an admin dashboard for analytics.
 
 2. 🏷️ Lab Asset Management System (React + Django)
-✔ 🔧 Tech: React.js, Django REST Framework, CSS
-✔ 📋 Tracks lab equipment, maintenance, and user assignments.
-✔ 🔍 Barcode/QR scanning integration for quick access.
+      ✔ 🔧 Tech: React.js, Django REST Framework, CSS
+      ✔ 📋 Tracks lab equipment, maintenance, and user assignments.
+      ✔ 🔍 Barcode/QR scanning integration for quick access.
 
 3. 🎓 Student Management System (Django)
-✔ 🔧 Tech: Django, PostgreSQL, Bootstrap
-✔ 📚 Manages student records, attendance, and grades.
-✔ 👨‍💼 Role-based access for admins, teachers & students.
+      ✔ 🔧 Tech: Django, PostgreSQL, Bootstrap
+      ✔ 📚 Manages student records, attendance, and grades.
+      ✔ 👨‍💼 Role-based access for admins, teachers & students.
 
 4. 💬 Realtime Chat App (React + Socket.io)
-✔ 🔧 Tech: React.js, Material-UI, Socket.io
-✔ 💌 Live messaging with typing indicators & read receipts.
-✔ 📱 Responsive design for all devices.
+      ✔ 🔧 Tech: React.js, Material-UI, Socket.io
+      ✔ 💌 Live messaging with typing indicators & read receipts.
+      ✔ 📱 Responsive design for all devices.
 
 
 📂 More Projects: [GitHub Repositories](https://github.com/Debprasad77?tab=repositories))*  
