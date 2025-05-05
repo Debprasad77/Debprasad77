@@ -100,7 +100,8 @@ Explore AI model deployment (TensorFlow.js).
 
 ---
 
- 📊 GitHub Stats
+📊 GitHub Stats
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debprasad77&show_icons=true&theme=radical)  
 
 ---
