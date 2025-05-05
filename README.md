@@ -67,11 +67,11 @@ Let’s build something amazing together! 😊
 
 ---
 
- 📫 Connect With Me  
+## 📫 Connect With Me  
 
-**📧 Email: [debprasadmanna2002@gmail.com](mailto:debprasadmanna2002@gmail.com)  
-**🔗 LinkedIn: [Debprasad Manna](https://www.linkedin.com/in/Debprasad77/) 
-**🐦 Twitter: [@Debprasad77](https://twitter.com/Debprasad77) 
+📧 **Email:** [debprasadmanna2002@gmail.com](mailto:debprasadmanna2002@gmail.com)  
+🔗 **LinkedIn:** [Debprasad Manna](https://www.linkedin.com/in/Debprasad77/)  
+🐦 **Twitter:** [@Debprasad77](https://twitter.com/Debprasad77)  
 
 ---
 
