@@ -1,113 +1,56 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2869a44e-2fb2-41a4-98a4-b392c8b6d8c5" alt="Debprasad Manna Banner">
+</p>
 
+<h1 align="center">Hi, I'm Debprasad Manna 👋</h1>
 
-👋 Hello, I'm Debprasad Manna  
-Full-Stack Developer | MCA Graduate (SNU, Kolkata, 2025)  
+<p align="center">
+  A Full-Stack Developer specializing in <strong>Django (DRF)</strong> and <strong>React.js</strong>.
+  <br />
+  MCA Graduate (SNU, 2025) passionate about building scalable web apps and contributing to open source.
+</p>
 
-🚀 Passionate about building scalable web applications using Django and React.js.  
-💡 Constantly learning new technologies and contributing to open-source projects.  
-
-Let’s build something amazing together! 😊
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend Development
-- ⚛️ **React.js** (Hooks, Context API, Redux)
-- 🏗️ **HTML5**, **CSS3**, **JavaScript (ES6+)**
-- 🎨 **Tailwind CSS** / **Bootstrap** / **Material-UI** (Responsive Design)
-- 🔌 **Socket.io** (Realtime apps)
-
-### ⚙️ Backend Development
-- 🐍 **Django**, **Django REST Framework (DRF)**
-- 🐍 **Python** (Flask for microservices, Machine Learning)
-
-### 🗃️ Databases
-- 🐘 **PostgreSQL**, **MySQL**, **SQLite**
-- 🍃 **MongoDB** (Basic knowledge)
-
-### 🛠️ DevOps & Tools
-- 🔄 **Git & GitHub** (Version Control)
-- 💻 **VS Code**, **PyCharm** (IDEs) 
+<p align="center">
+  <a href="mailto:debprasadmanna2002@gmail.com">📧 Email</a>
+  &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/Debprasad77/">🔗 LinkedIn</a>
+  &nbsp;|&nbsp;
+  <a href="https://twitter.com/Debprasad77">🐦 Twitter</a>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/Debprasad77?tab=repositories">📂 All Projects</a>
+</p>
 
 ---
 
-🌱 Currently Learning
-- Next.js (Server-side rendering with React)  
-- GraphQL (For efficient API queries)  
-- AWS / Firebase (Cloud deployment)
-- Docker (Containerization)  
+### 🛠️ My Tech Stack
+
+* **Frontend:** React.js (Redux, Context API), JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap, Socket.io
+* **Backend:** Python, Django, Django REST Framework (DRF), Flask
+* **Databases:** PostgreSQL, MySQL, MongoDB, SQLite
+* **Tools & DevOps:** Git, GitHub, VS Code, PyCharm
+* **🌱 Currently Learning:** Next.js, GraphQL, Docker, AWS / Firebase
 
 ---
 
-## 💼 Projects  
+### 🚀 Featured Projects
 
-### 🧠 Mental Health Prediction System (ML + Django)  
-**🔧 Tech:** Python (Scikit-learn), Django, Pandas  
-**📊 Predicts** mental health risks using user-input data.  
-**📈 Includes** an admin dashboard for analytics.  
-
-### 🏷️ Lab Asset Management System (React + Django)  
-**🔧 Tech:** React.js, Django REST Framework, CSS  
-**📋 Tracks** lab equipment, maintenance, and user assignments.  
-**🔍 Barcode/QR scanning** integration for quick access.  
-
-### 🎓 Student Management System (Django)  
-**🔧 Tech:** Django, PostgreSQL, Bootstrap  
-**📚 Manages** student records, attendance, and grades.  
-**👨‍💼 Role-based access** for admins, teachers & students.  
-
-### 💬 Realtime Chat App (React + Socket.io)  
-**🔧 Tech:** React.js, Material-UI, Socket.io  
-**💌 Live messaging** with typing indicators & read receipts.  
-**📱 Responsive design** for all devices.  
-
-
-📂 More Projects: [GitHub Repositories](https://github.com/Debprasad77?tab=repositories)
+* **Lab Asset Management (React + DRF):** Tracks lab equipment, maintenance, and user assignments with QR/barcode scanning.
+* **Mental Health Prediction (ML + Django):** Predicts mental health risks using Scikit-learn & Pandas, with an admin analytics dashboard.
+* **Realtime Chat App (React + Socket.io):** Live messaging app with typing indicators and read receipts.
+* **Student Management System (Django + PostgreSQL):** Manages student records, attendance, and grades with role-based access.
 
 ---
 
-## 📫 Connect With Me  
+### 🎯 Let's Collaborate
 
-📧 **Email:** [debprasadmanna2002@gmail.com](mailto:debprasadmanna2002@gmail.com)  
-🔗 **LinkedIn:** [Debprasad Manna](https://www.linkedin.com/in/Debprasad77/)  
-🐦 **Twitter:** [@Debprasad77](https://twitter.com/Debprasad77)  
+I'm actively looking to contribute to open-source projects or collaborate on web development projects (especially in AI/ML or SaaS).
 
----
-
- ⚡ Fun Facts  
-- 🎵 Love listening to music while coding.
-- 🎧 Music + Coding = Perfect workflow!
-- 📚 Enjoy reading tech blogs and learning new frameworks.  
-- 🏏 Cricket enthusiast!  
+* **Next Goal:** Build a full-stack SaaS project using Next.js + Django.
 
 ---
 
- 🚀 Let’s Collaborate!  
- 
-🔍 Looking to contribute to open-source projects or work on web development collaborations. 
-    Collaborations on AI/ML or web projects.
+### 📊 My GitHub Stats
 
----
-
-🎯 Next Goals
-
-Build a Next.js + Django SaaS project.
-
-Explore AI model deployment (TensorFlow.js).
-
-
-
----
-
-📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debprasad77&show_icons=true&theme=radical)  
-
----
-
-
-
-<!---
-Debprasad77/Debprasad77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Debprasad77&show_icons=true&theme=radical" alt="Debprasad's GitHub Stats" />
+</p>
