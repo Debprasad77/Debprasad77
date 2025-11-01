@@ -24,11 +24,11 @@
 
 ### 🛠️ My Tech Stack
 
-* **Frontend:** React.js (Redux, Context API), JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap, Socket.io
-* **Backend:** Python, Django, Django REST Framework (DRF), Flask
-* **Databases:** PostgreSQL, MySQL, MongoDB, SQLite
-* **Tools & DevOps:** Git, GitHub, VS Code, PyCharm
-* **🌱 Currently Learning:** Next.js, GraphQL, Docker, AWS / Firebase
+* 🌐 **Frontend:** React.js (Redux, Context API), JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap, Socket.io
+* ⚙️ **Backend:** Python, Django, Django REST Framework (DRF), Flask
+* 🗃️ **Databases:** PostgreSQL, MySQL, MongoDB, SQLite
+* 🔧 **Tools & DevOps:** Git, GitHub, VS Code, PyCharm
+* 🌱 **Currently Learning:** Next.js, GraphQL, Docker, AWS / Firebase
 
 ---
 
@@ -38,19 +38,3 @@
 * **Mental Health Prediction (ML + Django):** Predicts mental health risks using Scikit-learn & Pandas, with an admin analytics dashboard.
 * **Realtime Chat App (React + Socket.io):** Live messaging app with typing indicators and read receipts.
 * **Student Management System (Django + PostgreSQL):** Manages student records, attendance, and grades with role-based access.
-
----
-
-### 🎯 Let's Collaborate
-
-I'm actively looking to contribute to open-source projects or collaborate on web development projects (especially in AI/ML or SaaS).
-
-* **Next Goal:** Build a full-stack SaaS project using Next.js + Django.
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Debprasad77&show_icons=true&theme=radical" alt="Debprasad's GitHub Stats" />
-</p>
