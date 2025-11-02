@@ -34,7 +34,15 @@
 
 ### 🚀 Featured Projects
 
-* **Lab Asset Management (React + DRF):** Tracks lab equipment, maintenance, and user assignments with QR/barcode scanning.
-* **Mental Health Prediction (ML + Django):** Predicts mental health risks using Scikit-learn & Pandas, with an admin analytics dashboard.
-* **Realtime Chat App (React + Socket.io):** Live messaging app with typing indicators and read receipts.
-* **Student Management System (Django + PostgreSQL):** Manages student records, attendance, and grades with role-based access.
+* 🏷️ Lab Asset Management System (React + Django) : Tracks lab equipment, maintenance, and user assignments with QR/barcode scanning.
+* 🧠 Mental Health Prediction System (ML + Django) :  Predicts mental health risks using Scikit-learn & Pandas, with an admin analytics dashboard.
+* **💬 Realtime Chat App (React + Socket.io) :** Live messaging app with typing indicators and read receipts.
+* 🎓 Student Management System (Django) : Manages student records, attendance, and grades with role-based access.
+
+---
+
+### ⚡ Fun Facts  
+- 🎵 Love listening to music while coding.
+- 🎧 Music + Coding = Perfect workflow!
+- 📚 Enjoy reading tech blogs and learning new frameworks.  
+- 🏏 Cricket enthusiast!  
