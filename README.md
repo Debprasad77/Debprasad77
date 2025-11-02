@@ -13,6 +13,8 @@
 <p align="center">
   <a href="mailto:debprasadmanna2002@gmail.com">📧 Email</a>
   &nbsp;|&nbsp;
+   <a href="https://debprasadportfolio.vercel.app">🌐 Portfolio</a>
+  &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/Debprasad77/">🔗 LinkedIn</a>
   &nbsp;|&nbsp;
   <a href="https://twitter.com/Debprasad77">🐦 Twitter</a>
