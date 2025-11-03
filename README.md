@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2869a44e-2fb2-41a4-98a4-b392c8b6d8c5" alt="Debprasad Manna Banner">
+  <img src="https://raw.githubusercontent.com/Debprasad77/Debprasad77/refs/heads/main/banner.png" alt="Debprasad Manna Banner">
 </p>
 
 <h1 align="center">Hi, I'm Debprasad Manna 👋</h1>
